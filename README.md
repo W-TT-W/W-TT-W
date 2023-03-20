@@ -1,2 +1,1 @@
-Thomas Truelsen 
-WEXO
+Thomas Truelsen
